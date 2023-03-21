@@ -1,8 +1,9 @@
 # -Project title : - Iris Classification 
 IDE : - Jupyter Notebook
+
 Language : - Python 
 
-Project :-
+#Project :-
 
 
 
@@ -14,7 +15,7 @@ The data set consists of three species of Iris (Iris setosa, Iris virginica and 
 
 
 
-the steps involved are:-
+#The steps involved are:-
 
 
 
